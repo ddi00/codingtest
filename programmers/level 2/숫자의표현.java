@@ -31,6 +31,6 @@ public class 숫자의표현 {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(2));
+        System.out.println(solution(26));
     }
 }
