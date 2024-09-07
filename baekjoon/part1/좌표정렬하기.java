@@ -1,4 +1,4 @@
-package part1_수학;
+package part1;
 
 import java.io.IOException;
 import java.util.Arrays;
